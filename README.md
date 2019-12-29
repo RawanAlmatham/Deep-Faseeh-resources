@@ -90,7 +90,6 @@ SG         | **50**            	   | **150**           | 2      | [Download](htt
 corpus        	  | Epochs.         | Dim No.              | wnidow size.              		| Download      |
 -----        	  | --------        | --------             | --------  	    | --------- 	|
 KSU          | **5**           	 | **100**           | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
-
 KSU-POS          | **5**           	 | **100**           | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
 
 
