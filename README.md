@@ -10,7 +10,7 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 These are unsupervised word embeddings that were generated using CBOW and SG from Word2Vec. They were trained with different hyperparameters ranges: (2,4,5,8,16) for window size, (150, 300, 600) for dimensions, and (5 to 50) epochs. 
 
 
-###KSUCCA - CBOW
+### KSUCCA - CBOW
 
 Model        	  | Dim No.              | wnidow size.        		| Download      |
 -----        	  | --------             | ----------          	    | --------- 	|
@@ -29,3 +29,29 @@ CBOW         | **600**           | 4        | [Download](https://bakrianoo.sfo2.
 CBOW          | **600**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
 CBOW          | **600**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
 CBOW         | **600**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
+
+
+### KSUCCA - SG
+
+
+### KSUCCA - CBOW
+
+Model        	  | Dim No.              | wnidow size.        		| Download      |
+-----        	  | --------             | ----------          	    | --------- 	|
+SG          | **150**           | 2 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+SG          | **150**          | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
+SG         | **150**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
+SG          | **150**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+SG         | **150**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+SG         | **300**           | 2         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+SG         | **300**           | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_wiki.zip) |
+SG          | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
+SG          | **300**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+SG         | **300**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+SG         | **600**           | 2         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+SG         | **600**           | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_wiki.zip) |
+SG          | **600**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
+SG          | **600**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+SG         | **600**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
