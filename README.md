@@ -16,10 +16,10 @@ CBOW          | 150           | 2 | **150**	        | [Download](https://www.dro
 Model        	  | Dim No.              | wnidow size.        		| Download      |
 -----        	  | --------             | ----------          	    | --------- 	|
 CBOW          | **150**           | 2 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
-Twitter-CBOW          | **150**          | 4 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
-Twitter-SkipGram          | **150**           | 5 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
-Twitter-SkipGram          | **150**           | 8 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
-Wikipedia-CBOW          | **150**           | 16 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-Wikipedia-CBOW          | **300**           | 662,109 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
-Wikipedia-SkipGram          | **300**           | 662,109 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_wiki.zip) |
-Wikipedia-SkipGram          | **300**           | 662,109 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
+Twitter-CBOW          | **150**          | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
+Twitter-SkipGram          | **150**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
+Twitter-SkipGram          | **150**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+Wikipedia-CBOW          | **150**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+Wikipedia-CBOW          | **300**           | 2         | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+Wikipedia-SkipGram          | **300**           | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_wiki.zip) |
+Wikipedia-SkipGram          | **300**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
