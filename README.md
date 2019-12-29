@@ -86,3 +86,4 @@ SG          | **20**             | **150**           | 2      | [Download](https
 SG         | **30**            	  | **150**           | 2       | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 SG          | **40**          	  | **150**           | 2       | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
 SG         | **50**            	   | **150**           | 2      | [Download]
+(https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
