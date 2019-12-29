@@ -35,7 +35,7 @@ CBOW        | 5 | **600**           | 16 	        | [Download](https://bakrianoo
 
 
 ### KSUCCA - CBOW - Round (B)
-# window size = 2 , Dim No = 150 
+#### window size = 2 , Dim No = 150 
 
 
 Model        	  | Epochs.         | Dim No.              | wnidow size.              		| Download      |
@@ -74,10 +74,7 @@ SG        | 5 | **600**           | 16 	        | [Download](https://bakrianoo.s
 
 
 ### KSUCCA - CBOW - Round (B)
-# window size = 2 , Dim No = 150 
-
-
-
+#### window size = 2 , Dim No = 150 
 
 Model        	  | Epochs.         | Dim No.              | wnidow size.              		| Download      |
 -----        	  | --------        | --------             | --------  	    | --------- 	|
@@ -86,3 +83,13 @@ SG          | **20**             | **150**           | 2      | [Download](https
 SG         | **30**            	  | **150**           | 2       | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 SG          | **40**          	  | **150**           | 2       | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
 SG         | **50**            	   | **150**           | 2      | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
+
+
+***
+***
+
+
+# Synonyms lexicon
+[Download] (https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip)
+
