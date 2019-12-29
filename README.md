@@ -33,7 +33,7 @@ CBOW         | **600**           | 16 	        | [Download](https://bakrianoo.sf
 
 
 ### KSUCCA - CBOW - Round (B)
-## window size = 2 , Dim No = 150 
+# window size = 2 , Dim No = 150 
 
 
 Model        	  | Epoches.                     		| Download      |
@@ -43,12 +43,6 @@ CBOW          | **20**                  | [Download](https://bakrianoo.sfo2.digi
 CBOW         | **30**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 CBOW          | **40**          	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
 CBOW         | **50**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
-
-
-
-
-
-
 
 
 
@@ -72,4 +66,20 @@ SG         | **600**           | 4        | [Download](https://bakrianoo.sfo2.di
 SG          | **600**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
 SG          | **600**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
 SG         | **600**           | 16 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
+
+
+
+### KSUCCA - CBOW - Round (B)
+# window size = 2 , Dim No = 150 
+
+
+Model        	  | Epoches.                     		| Download      |
+-----        	  | --------                      	    | --------- 	|
+SG          | **10**           	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+SG          | **20**                  | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
+SG         | **30**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
+SG          | **40**          	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+SG         | **50**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
 
