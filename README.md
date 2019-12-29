@@ -13,9 +13,9 @@ CBOW          | 150           | 2 | **150**	        | [Download](https://www.dro
 
 
 
-Model        	  | Dim No.              | wnidow size.        | Vec-Size		| Download      |
------        	  | --------             | ----------          | ---------	    | --------- 	|
-Twitter-CBOW          | 150           | 2 | **150**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+Model        	  | Dim No.              | wnidow size.        		| Download      |
+-----        	  | --------             | ----------          	    | --------- 	|
+CBOW          | **150**           | 2 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
 Twitter-CBOW          | 66,900,000           | 1,476,715 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
 Twitter-SkipGram          | 66,900,000           | 1,476,715 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 Twitter-SkipGram          | 66,900,000           | 1,476,715 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
