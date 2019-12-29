@@ -10,7 +10,7 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 These are unsupervised word embeddings that were generated using CBOW and SG from Word2Vec. They were trained with different hyperparameters ranges: (2,4,5,8,16) for window size, (150, 300, 600) for dimensions, and (5 to 50) epochs. 
 
 
-### KSUCCA - CBOW
+### KSUCCA - CBOW - Round(A)
 
 Model        	  | Dim No.              | wnidow size.        		| Download      |
 -----        	  | --------             | ----------          	    | --------- 	|
@@ -32,10 +32,28 @@ CBOW         | **600**           | 16 	        | [Download](https://bakrianoo.sf
 
 
 
-### KSUCCA - SG
+### KSUCCA - CBOW - Round (B)
+## window size = 2 , Dim No = 150 
 
 
-### KSUCCA - CBOW
+Model        	  | Epoches.                     		| Download      |
+-----        	  | --------                      	    | --------- 	|
+CBOW          | **10**           	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+CBOW          | **20**                  | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
+CBOW         | **30**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
+CBOW          | **40**          	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+CBOW         | **50**            	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+
+
+
+
+
+
+
+
+
+
+### KSUCCA - SG - Round(A)
 
 Model        	  | Dim No.              | wnidow size.        		| Download      |
 -----        	  | --------             | ----------          	    | --------- 	|
