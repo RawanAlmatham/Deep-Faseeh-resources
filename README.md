@@ -91,5 +91,5 @@ SG         | **50**            	   | **150**           | 2      | [Download](htt
 
 
 # Synonyms lexicon
-[Download] (https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip)
+[Download] | (https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip)
 
