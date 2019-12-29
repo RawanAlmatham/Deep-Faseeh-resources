@@ -10,3 +10,16 @@ https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-cla
 These are unsupervised word embeddings that were generated using CBOW and SG from Word2Vec. They were trained with different hyperparameters ranges: (2,4,5,8,16) for window size, (150, 300, 600) for dimensions, and (5 to 50) epochs. 
 Model        	  | Dim No.             | wnidow size.    | Vec-Size		| Download      |
 CBOW          | 150           | 2 | **150**	        | [Download](https://www.dropbox.com/s/a4qtazrlub6ue1n/KSU_150_2.rar?dl=0) |
+
+
+
+Model        	  | Docs No.             | Vocabularies No.    | Vec-Size		| Download      |
+-----        	  | --------             | ----------          | ---------	    | --------- 	|
+Twitter-CBOW          | 66,900,000           | 1,476,715 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+Twitter-CBOW          | 66,900,000           | 1,476,715 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
+Twitter-SkipGram          | 66,900,000           | 1,476,715 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
+Twitter-SkipGram          | 66,900,000           | 1,476,715 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
+Wikipedia-CBOW          | 1,800,000           | 662,109 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
+Wikipedia-CBOW          | 1,800,000           | 662,109 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_wiki.zip) |
+Wikipedia-SkipGram          | 1,800,000           | 662,109 | **300**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_wiki.zip) |
+Wikipedia-SkipGram          | 1,800,000           | 662,109 | **100**	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_wiki.zip) |
