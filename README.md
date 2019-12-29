@@ -85,6 +85,14 @@ SG          | **40**          	  | **150**           | 2       | [Download](http
 SG         | **50**            	   | **150**           | 2      | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_wiki.zip) |
 
 
+## Dict2vec models:
+
+corpus        	  | Epochs.         | Dim No.              | wnidow size.              		| Download      |
+-----        	  | --------        | --------             | --------  	    | --------- 	|
+KSU          | **5**           	 | **100**           | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+
+KSU-POS          | **5**           	 | **100**           | 5        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+
 
 ***
 
