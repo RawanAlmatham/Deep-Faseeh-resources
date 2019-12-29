@@ -4,3 +4,4 @@ Here you can fine the genertaed word embeddings for Deep Faseeh project from Kin
 https://mahaalrabiah.wordpress.com/2012/07/20/king-saud-university-corpus-of-classical-arabic-ksucca/
 
 
+to uploaded tonight
