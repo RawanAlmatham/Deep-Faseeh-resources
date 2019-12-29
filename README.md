@@ -11,7 +11,7 @@ These are unsupervised word embeddings that were generated using CBOW and SG fro
 
 
 ### KSUCCA - CBOW - Round(A)
-** Epochs = 5
+#### Epochs = 5
 
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
@@ -50,7 +50,7 @@ CBOW         | **50**            	   | **150**           | 2      | [Download](h
 
 
 ### KSUCCA - SG - Round(A)
-** Epochs = 5
+#### Epochs = 5
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
