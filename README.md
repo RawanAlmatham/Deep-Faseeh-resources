@@ -16,7 +16,7 @@ These are unsupervised word embeddings that were generated using CBOW and SG fro
 
 Model     | Epochs.   	  | Dim No.              | wnidow size.        		| Download      |
 -----     | --------   	  | --------             | ----------          	    | --------- 	|
-CBOW        | 5 | **150**           | 2 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_300_twitter.zip) |
+CBOW        | 5 | **150**           | 2 	        | [Download](https://www.dropbox.com/sh/1tvz8je9goebjq9/AAD1emSabZ5xO4wNngJWGm6va?dl=0) |
 CBOW         | 5 | **150**          | 4        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_cbow_100_twitter.zip) |
 CBOW        | 5 | **150**           | 5 	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_300_twitter.zip) |
 CBOW        | 5  | **150**           | 8	        | [Download](https://bakrianoo.sfo2.digitaloceanspaces.com/aravec/full_grams_sg_100_twitter.zip) |
